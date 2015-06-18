@@ -113,7 +113,28 @@ Run the server with the CORS header enabled:
 
 
 # Extra require
+
+- What is a module system?
+- Module Scoping
+- Creating a module
+- Consuming a module
+
 # Extra explore the request object
+
+- console.log the request in your http server
+
 # Extra httpie
+
+- A fancy pants tool for making requests. (A human friendly cURL)
+
 # Explore CRUD and associated HTTP verbs
+
+- GET - Gets entities /users/
+- POST - Creates entities /users/ <data>
+- PUT - Updates entities /users/1 <data>
+- DELETE - Deletes entities /users/1
+
 # Explore JSON Server
+
+- https://github.com/typicode/json-server
+- https://github.com/iammerrick/DevMountain-AJAX
