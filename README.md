@@ -22,6 +22,11 @@ HTTP can be summarized as text strings passed back and forth between computers o
 
 [Verbs](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
+- GET
+- PUT
+- POST
+- DELETE
+
 # Telnet
 
 [What is telnet?](https://kb.iu.edu/d/aayd)
